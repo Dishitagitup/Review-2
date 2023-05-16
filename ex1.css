@@ -1,0 +1,23 @@
+*{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.EKoPLOgCN6jLWFuJCZFyhgHaLH&pid=Api&P=0&h=180.jpg);
+    background-size:50rem 70rem;
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+.a{
+    text-align: center;
+    color: aliceblue;
+    padding: 3cm;
+    font-size: larger;
+    font-style:oblique;
+}
+.b{
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+    font-style:oblique;
+    padding:0cap;
+    
+}
